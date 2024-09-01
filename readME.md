@@ -3,10 +3,10 @@
 Welcome to the Python 101 Beginner's Course! This repository contains introductory lessons on Python programming, focusing on basic concepts and functionalities essential for new learners.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Printing in Python](#printing-in-python)
-- [Taking User Input](#taking-user-input)
-- [Displaying User Input](#displaying-user-input)
+- [print()](#print)
+- [input()](#input)
+- [f-string](#f-string)
+- [Challange](#challange)
 
 ## Introduction
 This section provides a brief introduction to Python, a versatile and powerful programming language used in a wide range of applications, from simple scripts to complex machine learning algorithms.
