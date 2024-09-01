@@ -61,7 +61,7 @@ name = input("Enter your name: ")
 print(f"Hello {name}.\nWelcome to your first python call.")
 ```
 
-## 🚀 Challenge 🎯
+## Challenge 🚀 🎯
 
 1. **Take Input**
    - Prompt the user to enter their name, age, gender, and DOB.
