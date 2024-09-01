@@ -6,7 +6,7 @@ Welcome to the Python 101 Beginner's Course! This repository contains introducto
 - [print()](#using-print-function)
 - [input()](#using-input-function)
 - [f-string](#f-string)
-- [Test your learing challange](#🚀-Challenge-🎯)
+- [🚀 Challenge 🎯](#challenge)
 
 ## Introduction
 This section provides a brief introduction to Python, a versatile and powerful programming language used in a wide range of applications, from simple scripts to complex machine learning algorithms.
