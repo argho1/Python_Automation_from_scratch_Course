@@ -46,3 +46,17 @@ Then printing it:
 print(name)
 ```
 
+## Challange
+
+1. **Take Input**
+   - Prompt the user to enter their name, age, gender, and DOB.
+
+2. **Print Normally**
+   - Output the collected information in a single line.
+
+3. **Print Using f-string**
+   - Utilize Python's f-string formatting to cleanly insert variables into strings.
+
+4. **Print Formats**
+   - Display the information in one line.
+   - Display the information on multiple lines for clarity.
