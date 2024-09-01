@@ -3,8 +3,8 @@
 Welcome to the Python 101 Beginner's Course! This repository contains introductory lessons on Python programming, focusing on basic concepts and functionalities essential for new learners.
 
 ## Table of Contents
-- [print()](#print)
-- [input()](#input)
+- [print()](#Using-print()-Function)
+- [input()](#Using-input()-Function)
 - [f-string](#f-string)
 - [Challange](#challange)
 
