@@ -33,3 +33,11 @@ By using "\n" which stands for next line.
 print("Hello, World!\nHello, World!\nHello, World!")
 ```
 
+### 2. Using `input()` Function
+The `input()` function in Python allows the program to pause and wait for user input, which can be useful for interactive applications. This function reads a line from input, converts it into a string (stripping a trailing newline), and returns it.
+
+### Basic Usage
+Prompt the user to enter some text and store it in a variable:
+```python
+name = input("Enter your name: ")
+```
