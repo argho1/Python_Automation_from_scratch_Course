@@ -53,10 +53,11 @@ F-strings in Python let you include variables directly in strings for easier for
 Prompt the user to enter some text and store it in a variable:
 ```python
 name = input("Enter your name: ")
-print("Hello ", name, "\nwelcom to your first python call.")
+print("Hello ", name, "\nWelcom to your first python call.")
 ```
 The 'pro' way with f-String:
 ```python
+name = input("Enter your name: ")
 print(f"Hello {name}.\nWelcome to the class.")
 ```
 
