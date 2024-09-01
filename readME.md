@@ -28,6 +28,7 @@ print("Hello, World!")
 print("Hello, World!")
 ```
 ### OR the pro way
+By using "\n" which stands for next line.
 ```python
 print("Hello, World!\nHello, World!\nHello, World!")
 ```
