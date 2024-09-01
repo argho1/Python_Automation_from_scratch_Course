@@ -46,6 +46,20 @@ Then printing it:
 print(name)
 ```
 
+## f-String
+F-strings in Python let you include variables directly in strings for easier formatting, making it quicker and clearer to combine text and data.
+
+### Usage
+Prompt the user to enter some text and store it in a variable:
+```python
+name = input("Enter your name: ")
+print("Hello ", name, "\nwelcom to your first python call.")
+```
+The 'pro' way with f-String:
+```python
+print(f"Hello {name}.\nWelcome to the class.")
+```
+
 ## Challange
 
 1. **Take Input**
